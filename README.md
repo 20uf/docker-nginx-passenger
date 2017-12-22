@@ -6,7 +6,7 @@ Nginx/Httpd Passenger NodeJs
 ========================
 > Sandbox for development - container running Nginx or Httpd + Passenger + NodeJs
 
- [![Docker Pulls](https://img.shields.io/docker/pulls/dockernodejs/passenger.svg)](#)  [![Build Status](https://travis-ci.org/dockernodejs/passenger.svg?branch=master)](#) 
+ [![Docker Pulls](https://img.shields.io/docker/pulls/dockernodejs/passenger.svg)](#)  [![Build Status](https://travis-ci.org/OsLab/docker-nginx-passenger.svg?branch=master)](#) 
 
 ## Official docker repository
 
