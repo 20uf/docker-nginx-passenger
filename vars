@@ -1,2 +1,2 @@
-NAMESPACE="dockernodejs/nginx-passenger"
+NAMESPACES="apache nginx"
 NODE_VERSIONS="6 8 9"
